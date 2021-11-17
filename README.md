@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! 
 
-<!--
-**DaniRiber/DaniRiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Daniella.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a System Analysis and Development student!
+
+🏡 I live in Recife, Pernambuco, Brazil.
+
+📚 Currently, I'm taking a Full Stack Web Development course.
+
+📜 You can have a look on my repositories and track my progress.
+
+## More about me: https://www.linkedin.com/in/daniriber/
+
+You can contact me via LinkedIn.
+
+Thanks for visiting. 😄
