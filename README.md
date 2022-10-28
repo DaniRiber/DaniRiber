@@ -7,12 +7,12 @@
 
 🏡 I live in Recife, Pernambuco, Brazil.
 
-📚 Currently, I'm taking a Full Stack Web Development course.
+📚 Currently, I'm getting certified in PI System.
 
 📜 You can have a look on my repositories and track my progress.
 
 ## More about me: https://www.linkedin.com/in/daniriber/
 
-You can contact me via LinkedIn.
+Also, you can contact me via LinkedIn.
 
 Thanks for visiting. 😄
